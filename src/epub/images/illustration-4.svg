@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.2" viewBox="0 0 1431 543.46" xmlns="http://www.w3.org/2000/svg">
- <title>Du_Bois_4</title>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 1431 543">
+ <title>Two lines of musical notation representing a phrase of melody.</title>
  <polyline class="StaffLines" points="0 35.978 1431 35.978" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="2.73"/>
  <polyline class="StaffLines" points="0 60.818 1431 60.818" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="2.73"/>
  <polyline class="StaffLines" points="0 85.658 1431 85.658" fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="2.73"/>
