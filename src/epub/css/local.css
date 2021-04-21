@@ -21,7 +21,6 @@ footer{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -31,29 +30,22 @@ footer{
 	font-style: normal;
 	font-variant: small-caps;
 }
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
+article > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
@@ -109,16 +101,6 @@ figure img{
 	display: block;
 	margin: auto;
 	max-width: 100%;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
-figcaption p + p{
-	text-indent: 0;
 }
 
 figure{
