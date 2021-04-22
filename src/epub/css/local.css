@@ -146,3 +146,20 @@ section[epub|type~="dedication"] b{
 	font-size: 1.5em;
 	line-height: 2;
 }
+
+#of-the-training-of-black-men blockquote:nth-of-type(2){
+	font-variant: small-caps;
+	margin: 1em auto 1em;
+	text-align: justify;
+	width: 50%;
+}
+
+section[epub|type~="afterword"]{
+	font-style: italic;
+}
+
+section[epub|type~="afterword"] blockquote{
+	font-variant: small-caps;
+	font-size: 1.25em;
+	text-align: center;
+}
