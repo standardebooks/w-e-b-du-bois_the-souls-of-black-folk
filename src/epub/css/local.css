@@ -137,3 +137,12 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] b{
+	font-size: 1.5em;
+	line-height: 2;
+}
