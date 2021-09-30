@@ -21,7 +21,7 @@ footer{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] i{
+[epub|type~="epigraph"] em{
 	font-style: normal;
 }
 
