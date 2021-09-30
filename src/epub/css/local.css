@@ -142,7 +142,6 @@ section[epub|type~="dedication"] p{
 
 section[epub|type~="dedication"] b{
 	font-size: 1.5em;
-	line-height: 2;
 }
 
 #of-the-training-of-black-men blockquote:nth-of-type(2){
@@ -156,8 +155,13 @@ section[epub|type~="afterword"]{
 	font-style: italic;
 }
 
-section[epub|type~="afterword"] blockquote{
+section[epub|type~="afterword"] p:last-child{
 	font-variant: small-caps;
-	font-size: 1.25em;
+	margin-top: 1em;
 	text-align: center;
+	text-indent: 0;
+}
+
+#of-mr-booker-t-washington-and-others ol:first-of-type{
+	list-style: none;
 }
