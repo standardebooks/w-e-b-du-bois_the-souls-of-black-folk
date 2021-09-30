@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="the-sorrow-songs.xhtml">
-		<ignore>
-			<code>t-064</code>
-			<reason>The titlecase tool seems to be treating the "A-" as an article, as opposed to a prefix.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
