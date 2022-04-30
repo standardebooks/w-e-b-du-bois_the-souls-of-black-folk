@@ -72,8 +72,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-2">https://en.wikipedia.org/wiki/Frans_van_Mieris_the_Elder</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/names/n86864104</meta>
 		<meta property="se:role" refines="#artist-2" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="se:role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Zoey Leigh Peterson</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Peterson, Zoey Leigh</meta>
