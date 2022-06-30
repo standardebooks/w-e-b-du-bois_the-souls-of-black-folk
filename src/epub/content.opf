@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/408</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100321385</dc:source>
 		<meta property="se:word-count">69306</meta>
-		<meta property="se:reading-ease.flesch">53.24</meta>
+		<meta property="se:reading-ease.flesch">53.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-e-b-du-bois_the-souls-of-black-folk</meta>
 		<dc:creator id="author">W. E. B. Du Bois</dc:creator>
