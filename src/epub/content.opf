@@ -41,6 +41,9 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85001932</meta>
 		<meta property="se:subject">Nonfiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Nonfiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">31</meta>
 		<dc:description id="description">A seminal collection of essays on the African-American experience.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When it was first published in 1903, &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B Du Bois’s&lt;/a&gt; &lt;i&gt;The Souls of Black Folk&lt;/i&gt; represented a seismic shift in the discussion of race in the United States. Earlier African-American authors had broken ground with memoirs and autobiographical novels—narrative works that portrayed the African-American experience through the stories of particular individuals. What Du Bois envisioned was a work that portrayed the experience of African Americans &lt;em&gt;as a people&lt;/em&gt;.&lt;/p&gt;
