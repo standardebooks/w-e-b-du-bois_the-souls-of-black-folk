@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
@@ -74,6 +75,10 @@ article > header [epub|type~="epigraph"] + *{
 
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
+}
+
+blockquote[xml|lang]{
+	font-style: italic;
 }
 
 p span.i1{
