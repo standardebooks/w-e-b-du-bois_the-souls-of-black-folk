@@ -8,13 +8,13 @@
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
-		<meta property="se:role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
@@ -62,32 +62,32 @@
 		<meta property="se:name.person.full-name" refines="#author">William Edward Burghardt Du Bois</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W.E.B._Du_Bois</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80046721</meta>
-		<meta property="se:role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
-		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-1">Adriaen van der Spelt</dc:contributor>
 		<meta property="file-as" refines="#artist-1">Spelt, Adriaen van der</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-1">https://en.wikipedia.org/wiki/Adriaen_van_der_Spelt</meta>
-		<meta property="se:role" refines="#artist-1" scheme="marc:relators">art</meta>
+		<meta property="role" refines="#artist-1" scheme="marc:relators">art</meta>
 		<dc:contributor id="artist-2">Frans van Mieris</dc:contributor>
 		<meta property="file-as" refines="#artist-2">Mieris, Frans van</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-2">https://en.wikipedia.org/wiki/Frans_van_Mieris_the_Elder</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/names/n86864104</meta>
-		<meta property="se:role" refines="#artist-2" scheme="marc:relators">art</meta>
+		<meta property="role" refines="#artist-2" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
-		<meta property="se:role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Zoey Leigh Peterson</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Peterson, Zoey Leigh</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.zoeyleighpeterson.com/</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
