@@ -146,7 +146,7 @@ section[epub|type~="dedication"] p{
 }
 
 section[epub|type~="dedication"] b{
-	font-size: 1.5em;
+	font-size: larger;
 }
 
 #of-the-training-of-black-men blockquote:nth-of-type(2){
