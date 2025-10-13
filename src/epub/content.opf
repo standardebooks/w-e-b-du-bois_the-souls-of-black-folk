@@ -64,7 +64,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80046721</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">waw</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-1">Adriaen van der Spelt</dc:contributor>
 		<meta property="file-as" refines="#artist-1">Spelt, Adriaen van der</meta>
