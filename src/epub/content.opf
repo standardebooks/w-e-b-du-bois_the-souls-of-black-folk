@@ -84,7 +84,8 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Zoey Leigh Peterson</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Peterson, Zoey Leigh</meta>
-		<link href="https://www.zoeyleighpeterson.com/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://en.wikipedia.org/wiki/Zoey_Leigh_Peterson" refines="#producer-1" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n2016062187.html" refines="#producer-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
